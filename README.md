@@ -1,15 +1,15 @@
 # build your own redis
 
-- [ ] Implement `GET <key>`
-- [ ] Implement `SET <key> <value>`
-- [ ] Implement `DELETE <key>`
-- [ ] Implement `FLUSH`
-- [ ] Implement `MGET <key1> ... <keyn>`
-- [ ] Implement `MSET <key1> <value1> ... <keyn> <valuen>`
-- [ ] Support `String`
-- [ ] Support `Binary`
-- [ ] Support `Numbers`
-- [ ] Support `NULL`
+- [x] Implement `GET <key>`
+- [x] Implement `SET <key> <value>`
+- [x] Implement `DELETE <key>`
+- [x] Implement `FLUSH`
+- [x] Implement `MGET <key1> ... <keyn>`
+- [x] Implement `MSET <key1> <value1> ... <keyn> <valuen>`
+- [x] Support `String`
+- [x] Support `Binary`
+- [x] Support `Numbers`
+- [x] Support `NULL`
 - [ ] Support `Arrays`
-- [ ] Support `Dictionaries`
+- [x] Support `Dictionaries`
 - [ ] Support `Error messages`
