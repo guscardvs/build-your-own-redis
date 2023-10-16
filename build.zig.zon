@@ -1,0 +1,9 @@
+.{
+    .name = "build-your-own-redis",
+    .version = "0.1.0",
+
+    .dependencies = .{ .binned_allocator = .{
+        .url = "https://gist.github.com/antlilja/8372900fcc09e38d7b0b6bbaddad3904/archive/6c3321e0969ff2463f8335da5601986cf2108690.tar.gz",
+        .hash = "122031b87e4aedc69cbc600a29aaf79317fa84d7fc4f9e619d947de121aaf637bb2a",
+    } },
+}
